@@ -576,6 +576,7 @@ li {
 
 .footer-container {
   display: flex;
+  padding-right: 70px;
 }
 
 .address {
@@ -659,7 +660,6 @@ li {
 
 .mailing {
   margin-left: 70px;
-  margin-right: 70px;
 }
 
 .mailing-label {
