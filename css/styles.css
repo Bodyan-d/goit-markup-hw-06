@@ -629,6 +629,7 @@ li {
 
 .social-links-fotter {
   display: flex;
+  margin-right: 70px;
 }
 
 .footer-link {
@@ -656,10 +657,6 @@ li {
 
 .icon-footer {
   color: #ffffff;
-}
-
-.mailing {
-  margin-left: 70px;
 }
 
 .mailing-label {
